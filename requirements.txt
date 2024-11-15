@@ -1,0 +1,5 @@
+colorama==0.3.9
+requests==2.28.1
+flask==2.2.2
+numpy==1.23.5
+smtplib==0.1.0
