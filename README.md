@@ -19,7 +19,7 @@ Aşağıdaki adımları takip ederek bu projeyi Termux üzerinde kolayca çalı�
 git clone https://github.com/Rootninjaa/KnifeeM-Gmail-Bomber.git
 cd KnifeeM-Gmail-Bomber
 pip install -r requirements.txt
-python3 main.py
+python3 KnifeeM.py
 ```
 
 ## Bilgi
