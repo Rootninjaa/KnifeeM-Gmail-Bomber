@@ -25,6 +25,5 @@ python3 KnifeeM.py
 ## Bilgi
 Bu programda mail göndermek için smtp protokolu kullanılmıştır bu yüzden bilgileri girerken uygulama anahtarı oluşturmalısınız bu konu internette çok fazla vardır ordan oluşturursunuz...
 
-Rootninjaa © 2024
 
 
